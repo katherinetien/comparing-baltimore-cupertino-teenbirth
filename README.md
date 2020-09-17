@@ -7,9 +7,13 @@ Recognizing the disparities in access to healthcare due to income level, I wante
 
 ## Business Question
 
-How do health-related racial disparities contribute to teen birth rates of populations with low parent income in Baltimore, MD and San Francisco, CA? 
+_How do health-related racial disparities contribute to teen birth rates of populations with low parent income in Baltimore, MD and San Francisco, CA?_ 
 
 ## Data Question - Open Data 
 
-We will use open data from Opportunity Insights' [Opportunity Atlas](https://www.opportunityatlas.org/), an online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility. We will compare Baltimore, MD and San Francisco, CA, using two datasets: 
-1. 
+We will use open data from Opportunity Insights' [Opportunity Atlas](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing), an online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility. We will compare Baltimore, MD and San Francisco, CA, using two datasets. 
+1. Baltimore, MD: this dataset contains the teenage birth rates for low-income White and Black populations categorized by neighborhood in Baltimore City. 
+1. San Francisco, CA: this dataset also contains the teenage birth rates for low-income White and Black populations categorized by neighborhood in San Francisco. 
+
+## Data Answer 
+
