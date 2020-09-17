@@ -1,3 +1,0 @@
-## Step-by-step description of Excel Data Analysis
-1. Raw Dataset Parameters: Low Parent Income-White Child Race, Low Parent Income-Black Child Race in Baltimore, MD and San Francisco, CA
-1. Dataset Reorganization: reorder and filter tracts by neighborhoods within city boundaries (using Text-to-column, Sort-and-Filter)
