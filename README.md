@@ -11,9 +11,10 @@ _How do health-related racial disparities contribute to teen birth rates of popu
 
 ## Data Question - Open Data 
 
-We will use open data from Opportunity Insights' [Opportunity Atlas](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing), an online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility. We will compare Baltimore, MD and San Francisco, CA, using two datasets. 
-1. Baltimore, MD: this dataset contains the teenage birth rates for low-income White and Black populations categorized by neighborhood in Baltimore City. 
-1. San Francisco, CA: this dataset also contains the teenage birth rates for low-income White and Black populations categorized by neighborhood in San Francisco. 
+We will use open data from Opportunity Insights' [Opportunity Atlas](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing), an online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility. We will compare Baltimore, MD and San Francisco, CA, using two datasets.
+1. Baltimore, MD: this dataset contains the teenage birth rates for White and Black populations with low-income parents categorized by neighborhood in Baltimore City. 
+1. San Francisco, CA: contains the same metrics as the first dataset, categorized by neighborhood in San Francisco. 
 
 ## Data Answer 
 
+First, we compare trends for White and Black teen birth rates in both Baltimore and San Francisco. To accurately compare teen birth rates in both populations, we must try to eliminate differences due to geographical location. Therefore, we selected neighborhoods in which data was collected for both White and Black populations. 
