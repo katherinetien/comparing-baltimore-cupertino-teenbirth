@@ -17,4 +17,4 @@ We will use open data from Opportunity Insights' [Opportunity Atlas](https://opp
 
 ## Data Answer 
 
-First, we compare trends for White and Black teen birth rates in both Baltimore and San Francisco. To accurately compare teen birth rates in both populations, we must try to eliminate differences due to geographical location. Therefore, we selected neighborhoods in which data was collected for both White and Black populations. 
+First, we compare trends for White and Black teen birth rates in both Baltimore and San Francisco. To accurately compare teen birth rates in both populations, we must try to eliminate differences due to geographical location. Therefore, we selected neighborhoods in which data was collected for both White and Black populations. ![Alt text](balti-sf-graph.png)
