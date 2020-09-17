@@ -12,7 +12,7 @@ _How do health-related racial disparities contribute to teen birth rates of popu
 ## Data Question - Open Data 
 
 We will use open data from Opportunity Insights' [Opportunity Atlas](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing), an online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility. We will compare Baltimore, MD and San Francisco, CA, using two datasets.
-1. [Baltimore, MD](baltimore-data.xlsx): this dataset contains the teenage birth rates for White and Black populations with low-income parents categorized by neighborhood in Baltimore City. 
+1. [Baltimore, MD](baltimore-data.xlsx): this raw dataset contains the teenage birth rates for White and Black populations with low-income parents categorized by neighborhood in Baltimore City. 
 1. [San Francisco, CA](sf-data.xlsx): contains the same metrics as the first dataset, categorized by neighborhood in San Francisco. 
 
 ## Data Answer 
@@ -24,5 +24,7 @@ As the graph depicts, average White and Black teen birth rates are high for Balt
 1. lack of access to clinical services 
 1. social support to make informed decisions surrounding sexual health
 
-The data analysis corroborates the correlation of teen birth with health disparities related to race. To expand into other socio-ecological factors that contribute to sexual  
+The data analysis corroborates the correlation of teen birth with health disparities related to race. To expand into other socio-ecological factors that contribute to access to sexual health resources, we can look at datasets of teen birth rates categorized by education level, drug and alcohol use in adolescence, fraction of teen mothers with single parents (relating to social support aspect), etc.
+
+Hopefully, by identifying the health disparities among populations, policies such as the [Teen Pregnancy Prevention Plan] (https://health.baltimorecity.gov/node/170#:~:text=As%20one%20of%20B'more,2)%20Access%20to%20effective%20family) can be further refined to address the different needs of each community. 
 
