@@ -1,4 +1,4 @@
-# Comparing Teenage Birth Rate in Baltimore, MD and San Francisco, CA with Opportunity Atlas Data
+# Comparing Teenage Birth Rate in White and Black Populations of Baltimore, MD and San Francisco, CA
 ## Background Information 
 
 Last summer, I worked with the Baltimore City Health Department (BCHD) for a federally-funded project to address health-related social needs of pregnant women. One day, as I sat across from the fourth pregnant teenager I had interviewed that week alone, I knew I had stumbled upon a public health crisis. According to data from the [Strategic Plan to Reduce Teen Births in Baltimore City](https://www.healthyteennetwork.org/wp-content/uploads/2014/10/StrategicPlanReduceTeenBirthsBaltimoreCity.pdf), average teen birth rates in Baltimore city are three times the national average and are disproportionately high in Black and Hispanic populations.
