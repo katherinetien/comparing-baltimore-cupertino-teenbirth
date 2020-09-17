@@ -26,5 +26,5 @@ As the graph depicts, average White and Black teen birth rates are high for Balt
 
 The data analysis corroborates the correlation of teen birth with health disparities related to race. To expand into other socio-ecological factors that contribute to access to sexual health resources, we can look at datasets of teen birth rates categorized by education level, drug and alcohol use in adolescence, fraction of teen mothers with single parents (relating to social support aspect), etc.
 
-Hopefully, by identifying the health disparities among populations, policies such as the [Teen Pregnancy Prevention Plan](https://health.baltimorecity.gov/node/170#:~:text=As%20one%20of%20B'more,2)%20Access%20to%20effective%20family) can be further refined to address the different needs of each community. 
+Hopefully, by identifying the health disparities among populations, policies such as the [Teen Pregnancy Prevention Plan](https://health.baltimorecity.gov/node/170#:~:text=As%20one%20of%20B'more,2%20Access%20to%20effective%20family) can be further refined to address the different needs of each community. 
 
