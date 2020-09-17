@@ -22,4 +22,5 @@ As the graph depicts, average White and Black teen birth rates are high for Balt
 1. lack of access to sexual education
 1. lack of access to clinical services 
 1. social support to make informed decisions surrounding sexual health
+The data analysis corroborates the correlation of teen birth with health disparities related to race. To expand into other socio-ecological factors that contribute to sexual  
 
